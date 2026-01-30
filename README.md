@@ -26,7 +26,7 @@ requirements.txt: List of Python libraries required to reproduce the results.
 
 Clone the repository:
 
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/LALLEARABY/Exoplanet-Detection-Project.git)
+git clone [https://github.com/LALLEARABY/Exoplanet-Detection-Project.git](https://github.com/LALLEARABY/Exoplanet-Detection-Project.git)
 
 
 Install dependencies:
@@ -39,7 +39,7 @@ Run the Notebook: Open the .ipynb file in Google Colab or Jupyter Lab. Ensure yo
 5. Dataset
 
 The data used in this project is sourced from NASA's Kepler mission.
-[[Link to your data source here](https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data)]
+[[kepler-labelled-time-series-data](https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data)]
 
 Author: [LALLE BABA ARABIE]
 Date: January 2026
