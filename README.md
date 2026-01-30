@@ -26,7 +26,7 @@ requirements.txt: List of Python libraries required to reproduce the results.
 
 Clone the repository:
 
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/LALLEARABY/Exoplanet-Detection-Project.git)
 
 
 Install dependencies:
